@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-18T19:48:14 IST" name="Flipkart Search Suite" finished-at="2024-02-18T19:48:58 IST" duration-ms="44030">
+    <groups>
+    </groups>
+    <test started-at="2024-02-18T19:48:14 IST" name="Chrome Test" finished-at="2024-02-18T19:48:58 IST" duration-ms="44030">
+      <class name="tests.flipkartSearchTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:14 IST" name="setup" finished-at="2024-02-18T19:48:15 IST" duration-ms="1187" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addSponsoreditem(java.lang.String)[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:15 IST" name="addSponsoreditem" data-provider="testData2" finished-at="2024-02-18T19:48:28 IST" duration-ms="12418" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[watch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSponsoreditem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:28 IST" name="tearDown" finished-at="2024-02-18T19:48:28 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:28 IST" name="setup" finished-at="2024-02-18T19:48:29 IST" duration-ms="861" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addSponsoreditem(java.lang.String)[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:29 IST" name="addSponsoreditem" data-provider="testData2" finished-at="2024-02-18T19:48:35 IST" duration-ms="5952" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mobile]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSponsoreditem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:35 IST" name="tearDown" finished-at="2024-02-18T19:48:35 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:35 IST" name="setup" finished-at="2024-02-18T19:48:36 IST" duration-ms="815" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addSponsoreditem(java.lang.String)[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:36 IST" name="addSponsoreditem" data-provider="testData2" finished-at="2024-02-18T19:48:42 IST" duration-ms="5976" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Headphone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSponsoreditem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:42 IST" name="tearDown" finished-at="2024-02-18T19:48:42 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:42 IST" name="setup" finished-at="2024-02-18T19:48:43 IST" duration-ms="922" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:43 IST" name="testSearch" data-provider="testData" finished-at="2024-02-18T19:48:47 IST" duration-ms="4730" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[watch]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Watch- Buy Products Online at Best Price in India - All Categories | Flipkart.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:47 IST" name="tearDown" finished-at="2024-02-18T19:48:47 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:47 IST" name="setup" finished-at="2024-02-18T19:48:48 IST" duration-ms="978" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:48 IST" name="testSearch" data-provider="testData" finished-at="2024-02-18T19:48:52 IST" duration-ms="3927" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mobile- Buy Products Online at Best Price in India - All Categories | Flipkart.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:52 IST" name="tearDown" finished-at="2024-02-18T19:48:53 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:53 IST" name="setup" finished-at="2024-02-18T19:48:53 IST" duration-ms="943" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSearch(java.lang.String,java.lang.String)[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:53 IST" name="testSearch" data-provider="testData" finished-at="2024-02-18T19:48:58 IST" duration-ms="4169" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Headphone]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Headphone- Buy Products Online at Best Price in India - All Categories | Flipkart.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.flipkartSearchTest@21e360a]" started-at="2024-02-18T19:48:58 IST" name="tearDown" finished-at="2024-02-18T19:48:58 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.flipkartSearchTest -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- Flipkart Search Suite -->
+</testng-results>
