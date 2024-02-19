@@ -19,4 +19,3 @@ Details:
 6. TestData.xlsx: Consists of multiple test data for eact scenarios
 7. pom.xml: XML file that consists of all the necessary maven dependencies
 8. testng.xml: consists of setup for multiple threads and crossbrowser execution
-9. 
