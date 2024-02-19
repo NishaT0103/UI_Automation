@@ -1,6 +1,6 @@
 Project Name: UI_Testing
-Discription: To test the UI functionlaities of E-commerce website "Flipkart"
-Languages: Java, Selenium
+Discription: A TestNG framework to test the UI functionlaities of E-commerce website "Flipkart"
+Languages: Java, , TestNG, Selenium
 Framework: Maven
 Folder/File structure: 
                         Src/test/java - data   --> ExcelDataProvider.java
